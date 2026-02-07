@@ -15,6 +15,6 @@
 * Введите название колонки: `gdp`
 
 <div align="center">
-  <img src="https://github.com/SamRosto/gdp-report_avg_values/raw/main/images/result_table.png" width="200">
+  <img src="https://github.com/SamRosto/report_avg_values/raw/main/images/result_table.png" width="200">
   <h3>Таблица средних показателей по странам из CSV</h3>
 </div>
