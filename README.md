@@ -5,7 +5,7 @@ git clone git@github.com:SamRosto/report_avg_values.git
 cd report_avg_values
 ```
 
-
+# UV Install
 **macOS:**
 
 ```bash
@@ -34,7 +34,7 @@ uv --version
 uv init && uv sync
 ```
 
-**Базовые тесты:**
+# Базовые тесты
 
 ```bash
 uv run pytest tests/ -v
