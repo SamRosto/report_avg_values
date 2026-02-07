@@ -1,5 +1,5 @@
 # Запуск проекта
-
+---
 `git clone git@github.com:SamRosto/report_avg_values.git`
 `cd report_avg_values`
 ---
