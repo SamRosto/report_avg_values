@@ -31,7 +31,7 @@ uv --version
 ```
 
 ```bash
-uv init && uv sync
+uv sync
 ```
 
 # Базовые тесты
