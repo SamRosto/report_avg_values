@@ -1,4 +1,3 @@
-```markdown
 # Запуск проекта
 
 ```bash
@@ -11,31 +10,32 @@ cd report_avg_values
 
 ```bash
 brew install uv
-
+```
 
 **Linux**
-
+``` bash
 curl -LsSf https://astral.sh/uv/install.sh | sh<br>
 source ~/.bashrc
+```
 
 
 **Windows | Powershell**
-
 ```bash
 irm https://astral.sh/uv/install.ps1 | iex
-
+```
 
 **Проверка**
 
 ```bash
 uv --version
-
+```
 
 ```bash
 uv init && uv sync
-
+```
 
 **Базовые тесты:**
+
 ```bash
 uv run pytest tests/ -v
 ```
